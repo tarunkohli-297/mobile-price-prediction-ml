@@ -139,9 +139,11 @@ Prediction
 ```
 mobile-price-prediction-ml
 │
-├── task1.ipynb
+├── mobliepricepredication.ipynb
 ├── dataset.csv
 ├── README.md
+├── .gitignore
+├── LICENSE 
 ```
 
 ---
