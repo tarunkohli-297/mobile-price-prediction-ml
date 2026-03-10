@@ -61,7 +61,7 @@ Target Variable:
 
 ---
 
-# ⚙️ Technologies Used
+#  Technologies Used
 
 * **Python**
 * **Pandas**
