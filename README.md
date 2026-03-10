@@ -140,7 +140,7 @@ Prediction
 mobile-price-prediction-ml
 │
 ├── task1.ipynb
-├── mobile_price.csv
+├── dataset.csv
 ├── README.md
 ```
 
